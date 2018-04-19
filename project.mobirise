@@ -32,14 +32,15 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
     "uniqCompNum": 31,
-    "versionPublish": "4.7.1"
+    "versionPublish": "4.7.1",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Сервисный центр BIOS77",
+        "meta_descr": "Профессиональный ремонт телефонов, планшетов, ноутбуков и компьютеров",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
